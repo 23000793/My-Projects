@@ -1,0 +1,10 @@
+import javax.swing.JOptionPane;
+public class Burmashave {
+        public static void main (String[]args){
+        JOptionPane.showMessageDialog(null,"Shaving Brushes")
+        JOptionPane.showMessageDialog(null,"You'll soon see 'em")
+        JOptionPane.showMessageDialog(null,"On a ahelf/nIn some museum")
+        JOptionPane.showMessageDialog(null,"Burna Shave")
+        }
+    
+    }
